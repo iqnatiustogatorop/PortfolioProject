@@ -1,3 +1,6 @@
+Covid Visualization 
+https://public.tableau.com/app/profile/iqnatius.cahyo.h.togatorop/viz/CovidDashboardTutorial_16902759083090/Dashboard1?publish=yes
+
 Select *
 From [Portfolio Project]..Covid_Deaths
 Where continent is not Null

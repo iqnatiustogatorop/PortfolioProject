@@ -1,3 +1,6 @@
+Link Visualization
+https://public.tableau.com/app/profile/iqnatius.cahyo.h.togatorop/viz/Cyclistic2022_16932135496430/CyclisticBikeType
+
 --1 Tipe Sepeda
 Select distinct rideable_type 
 From Union_Cyclistic_2022
